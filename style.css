@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  padding-top: 20px;
+  padding-left: 20px;
+  overflow-x: hidden;
+}
+
+
+
+.firstlist {
+  float: ; right;
+  line-height: 10px;
+  margin-top: 2px;
+  list-style-type: none;
+  display:inline-block;
+  padding-left: 20;
+ 
+}
+
+
+.lastlist {
+  list-style-type: none ;
+  display: inline-block;
+  font-size: 12px;
+  padding-top: 90;
+  font-weight: bold;
+  padding-left: 7px;
+  text-decoration: none;
+  color: black;
+}
+
+.dis {
+  text-decoration: none;
+  color: black;
+  font: 12px;
+  margin-left: 300;
+}
+  
+
+
+a {
+  text-decoration: none;
+  color: black;
+  font: 12px;
+}
+
+
+
+h1 {
+  font-family: "Poppins";
+  font-style: bold;
+
+  font-size: 40px;
+  padding-top: 100;
+  padding-left: 100;
+}
+
+input {
+  padding-top: 10;
+  margin: 8px 0;
+  border: none;
+  border-bottom: 1px solid #e4d2d2;
+  background-color: ;
+  cursor: pointer;
+}
+
+.frm {
+  width: 40%;
+}
+.depdate {
+  width: 40%;
+}
+
+.too {
+  width: 40%;
+}
+.rtdate {
+  width: 40%;
+}
+
+.passenger {
+  width: 80%;
+}
+
+.video-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  width: 100%;
+}
+
+.body-part {
+  z-index: 1;
+  opacity: 1;
+  position: absolute;
+
+  width: 100vh;
+}
+
+.booking {
+  height: 500;
+  width: 60%;
+  padding-left: 20;
+  margin-left: 100;
+  margin-top: 50;
+  padding-top: 20;
+  background-color: beige;
+}
+
+.btnC {
+  background-color: #2e3add; 
+  border: none;
+  color: white;
+  padding-top: 15px 32px 30px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  margin-top: 30;
+  cursor: pointer;
+  width: 80%;
+  height: 10%;
+}
